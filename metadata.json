@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A modern full-stack To-Do List Management Application with CRUD operations, analytics charts, and MongoDB persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
